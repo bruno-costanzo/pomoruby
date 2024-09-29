@@ -1,0 +1,5 @@
+---
+work_duration: 1800
+break_duration: 300
+long_break_duration: 600
+pomodoros_before_long_break: 5
